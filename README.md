@@ -36,6 +36,12 @@ npx react-native run-android
 <img width="1080" height="2400" alt="SplashScreen" src="https://github.com/user-attachments/assets/c65d4fb2-3f75-49bf-889b-a45de8284e2b" />
 <img width="1080" height="2400" alt="loaderScreen" src="https://github.com/user-attachments/assets/0b19f9fd-1341-418b-a4ce-43a5aef9ae60" />
 <img width="1080" height="2400" alt="listingScreen" src="https://github.com/user-attachments/assets/675abafa-3937-4333-bd5c-3140fed42f10" />
+## 📸 App Screenshots
+
+<img src="./assets/screenshots/splash.png" width="300" />
+<img src="./assets/screenshots/loader.png" width="300" />
+<img src="./assets/screenshots/listing.png" width="300" />
+
 
 
 

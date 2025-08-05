@@ -47,7 +47,7 @@ npx react-native run-android
 
 ### 🏠 Home Screen
 
-![Home Screen](./assets/screenshots/home-screen.png)
+![Home Screen](.listingScreen.png)
 
 
 

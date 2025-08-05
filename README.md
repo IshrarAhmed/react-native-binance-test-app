@@ -43,6 +43,11 @@ npx react-native run-android
 <img src="./assets/screenshots/listing.png" width="300" />
 
 
+## 📱 App Screenshots
+
+### 🏠 Home Screen
+
+![Home Screen](./assets/screenshots/home-screen.png)
 
 
 

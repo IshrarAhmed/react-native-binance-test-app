@@ -46,10 +46,7 @@ npx react-native run-android
 ## 📱 App Screenshots
 
 ### 🏠 Home Screen
-
-![App Screenshot](./listingScreen.png)
-
-
+![App Screenshot](https://raw.githubusercontent.com/IshrarAhmed/react-native-binance-test-app/main/listingScreen.png)
 
 🧠 How It Works
 WebSocket connects to Binance and listens for 24hr ticker updates.

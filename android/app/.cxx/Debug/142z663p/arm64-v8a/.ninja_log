@@ -1,0 +1,5 @@
+# ninja log v5
+1	7	0	/home/ishrar/nativeApp/binanceAppTest/android/app/.cxx/Debug/142z663p/arm64-v8a/CMakeFiles/cmake.verify_globs	3ebcd8c0309c60a0
+0	12092	1754393117889867031	CMakeFiles/appmodules.dir/home/ishrar/nativeApp/binanceAppTest/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	f7d037c71d06e6e7
+5	13251	1754393119025736869	CMakeFiles/appmodules.dir/OnLoad.cpp.o	ca729ea03c603518
+13251	13397	1754393119209715743	/home/ishrar/nativeApp/binanceAppTest/android/app/build/intermediates/cxx/Debug/142z663p/obj/arm64-v8a/libappmodules.so	d797d5d25f078570

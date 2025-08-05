@@ -1,0 +1,11 @@
+# ninja log v5
+1	8	0	/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/.cxx/RelWithDebInfo/3q5y6y30/armeabi-v7a/CMakeFiles/cmake.verify_globs	9625c64f3cbeb84f
+2679	2712	1754391455527396100	/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/build/intermediates/cxx/RelWithDebInfo/3q5y6y30/obj/armeabi-v7a/libappmodules.so	e9d3b8551a7c1fc0
+2	51	1754391850358208555	build.ninja	b0326aefc89e8266
+2	2679	1754391455487396620	CMakeFiles/appmodules.dir/OnLoad.cpp.o	dbf47647163de913
+0	17	0	clean	4dea8e7f6c475e9c
+2	2287	1754391455099401682	CMakeFiles/appmodules.dir/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8eb71859dfb6f4de
+0	2	0	/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/.cxx/RelWithDebInfo/3q5y6y30/armeabi-v7a/CMakeFiles/cmake.verify_globs	9625c64f3cbeb84f
+3	3431	1754391853802163044	CMakeFiles/appmodules.dir/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8eb71859dfb6f4de
+3	3659	1754391854042159872	CMakeFiles/appmodules.dir/OnLoad.cpp.o	dbf47647163de913
+3659	3696	1754391854090159238	/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/build/intermediates/cxx/RelWithDebInfo/3q5y6y30/obj/armeabi-v7a/libappmodules.so	e9d3b8551a7c1fc0

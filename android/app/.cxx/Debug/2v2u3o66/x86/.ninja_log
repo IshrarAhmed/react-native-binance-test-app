@@ -1,0 +1,10 @@
+# ninja log v5
+3	102	1754391837130383329	build.ninja	4bdb36babe837c0c
+3845	3987	1754389262296411429	/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/build/intermediates/cxx/Debug/2v2u3o66/obj/x86/libappmodules.so	a754b82127424ec6
+11	3845	1754389262140413880	CMakeFiles/appmodules.dir/OnLoad.cpp.o	a25ff1fbe155fe53
+2	4	0	/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/.cxx/Debug/2v2u3o66/x86/CMakeFiles/cmake.verify_globs	c63445337fabeebc
+0	1	0	clean	4dea8e7f6c475e9c
+10	3586	1754389261884417902	CMakeFiles/appmodules.dir/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	53e889d3e71d187c
+4	120	1754391837130383329	build.ninja	4bdb36babe837c0c
+0	4	0	/home/ocode-2023/Desktop/myProjects/ReactNativeTest/BinanceApp/android/app/.cxx/Debug/2v2u3o66/x86/CMakeFiles/cmake.verify_globs	c63445337fabeebc
+0	1	0	clean	4dea8e7f6c475e9c
